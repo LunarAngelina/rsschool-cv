@@ -1,5 +1,5 @@
 # **Lobanova Angelina**  
-# Junior Frontend Developer  
+## Junior Frontend Developer  
 <img src="https://avatars.githubusercontent.com/u/106955412?v=4" alt="girl" width=200px heihgt=200px>  
 
 ***
