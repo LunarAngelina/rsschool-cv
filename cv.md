@@ -33,7 +33,7 @@ function highAndLow(numbers){
 [Momentum](https://lunarangelina.github.io/momentum/)
 (Task from Stage0 in RS-SCHOOL)  
 [Source code](https://github.com/LunarAngelina/momentum)
-##### Applied skills
+#### Applied skills
 - item search methods
 - data output to the page
 - working with date and time
