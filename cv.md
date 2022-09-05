@@ -1,18 +1,18 @@
 # **Lobanova Angelina**  
-## Junior Frontend Developer  
+# Junior Frontend Developer  
 <img src="https://avatars.githubusercontent.com/u/106955412?v=4" alt="girl" width=200px heihgt=200px>  
 
 ***
-### Contact information:    
+## Contact information:    
 **Telephone:** +998 91 0088771    
 **Email:** alunaloba@gmail.com    
 **Telegram:** @lunarangelina    
 **Discord** Angelina (@lunarangelina)    
 [LinkedIn](https://www.linkedin.com/in/angelina-lobanova-2b4446234/)  
 ***
-### About me
+## About me
 I am a beginner Frontend Developer. I've been learning frontend since Spring 2022 and I really want to become a professional developer.  I have great ideas for creating useful and unique applications, and it motivates me to develop my skills. As soon as I realize that I have a suitable skill level, I will be able to bring my ideas to life. Now I'm ready for a long marathon to learn programming and it's my lifestyle now. In my successful study I am facilitated by a good level of English, a love of data structuring, high motivation and friends-developers, from whom I can always ask for advice. 
-### Skills and Proficiency: 
+## Skills and Proficiency: 
 * HTML5   
 * CSS, SASS
 * JS Basics  
@@ -20,7 +20,7 @@ I am a beginner Frontend Developer. I've been learning frontend since Spring 202
 * VS Code  
 * Git, GitHub  
 * Webpack  
-### Code example: 
+## Code example: 
 ```
 function highAndLow(numbers){
   let sortedArrOfNum = numbers.split(' ').sort(function(a, b){return a - b});
@@ -28,8 +28,8 @@ function highAndLow(numbers){
   return `${sortedArrOfNum[sortedArrOfNum.length-1]} ${sortedArrOfNum[0]}`
 }
 ```
-### My experience, my projects:  
-* #### Momentum 
+## Projects:  
+### Momentum 
 [Momentum](https://lunarangelina.github.io/momentum/)
 (Task from Stage0 in RS-SCHOOL)  
 [Source code](https://github.com/LunarAngelina/momentum)
@@ -41,9 +41,9 @@ function highAndLow(numbers){
 - saving data to local storage
 - using recursive setTimeout
 - handling asynchronous requests
-### Courses:   
+## Courses:   
 * JS Basics on [ru.code-basics.com](https://ru.code-basics.com/)  
 * CSS Basics on [ru.code-basics.com](https://ru.code-basics.com/)  
-### Languages:      
+## Languages:      
 * Russian - native 
 * English - C1, according to [efset.org](https://www.efset.org/) 
