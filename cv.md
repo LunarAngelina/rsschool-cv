@@ -34,13 +34,13 @@ function highAndLow(numbers){
 (Task from Stage0 in RS-SCHOOL)  
 [Source code](https://github.com/LunarAngelina/momentum)
 ##### Applied skills
-+ item search methods
-+ data output to the page
-+ working with date and time
-+ working with audio
-+ saving data to local storage
-+ using recursive setTimeout
-+ handling asynchronous requests
+- item search methods
+- data output to the page
+- working with date and time
+- working with audio
+- saving data to local storage
+- using recursive setTimeout
+- handling asynchronous requests
 ### Courses:   
 * JS Basics on [ru.code-basics.com](https://ru.code-basics.com/)  
 * CSS Basics on [ru.code-basics.com](https://ru.code-basics.com/)  
