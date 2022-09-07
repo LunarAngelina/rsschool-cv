@@ -1,0 +1,54 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html, body, div, span, object, iframe, figure, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, code, em, img, small, strike, strong, sub, sup, tt, b, u, i, ol, ul, li, fieldset, form, label, table, caption, tbody, tfoot, thead, tr, th, td, main, canvas, embed, footer, header, nav, section, video{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  text-size-adjust: none;
+}
+
+footer, header, nav, section, main{
+  display: block;
+}
+
+body{
+  line-height: 1;
+}
+
+ol, ul{
+  list-style: none;
+}
+
+/* Header Styles start */
+.header {
+  height: 6.25em; 
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  background-color: #7B8253;
+}
+
+.header__list {
+  display: flex;
+  flex-direction: row;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  font-size: 2em;
+}
+
+.header__li-item {
+  padding-right: 2em;
+}
